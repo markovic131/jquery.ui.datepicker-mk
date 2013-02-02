@@ -5,8 +5,10 @@ Macedonian i18n for the jQuery UI date picker plugin.
 
 Usage - 
 ----------
+```html 
 <script type="text/javascript" 
 	src="//raw.github.com/psybaron/jquery.ui.datepicker-mk/master/jquery.ui.datepicker-mk.js">
 </script>
+```
 
-Include in between <head> </head> tags.
+Include in between ```html<head> </head>``` tags.
