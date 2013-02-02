@@ -3,7 +3,7 @@
 Macedonian i18n for the jQuery UI date picker plugin.
 @author [Marko Aleksic](https://github.com/psybaron)
 
-Usage - 
+Usage 
 ----------
 ```html 
 <script type="text/javascript" 
@@ -11,4 +11,4 @@ Usage -
 </script>
 ```
 
-Include in between ```html<head> </head>``` tags.
+Include between ```<head> </head>``` tags.
