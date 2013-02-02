@@ -1,6 +1,12 @@
 # [MK i18n for JQuery UI Datepicker]
 
-/**
- * Macedonian i18n for the jQuery UI date picker plugin.
- * @author Marko Aleksic <psybaron@gmail.com>
- */
+Macedonian i18n for the jQuery UI date picker plugin.
+@author [Marko Aleksic](https://github.com/psybaron)
+
+Usage - 
+----------
+<script type="text/javascript" 
+	src="//raw.github.com/psybaron/jquery.ui.datepicker-mk/master/jquery.ui.datepicker-mk.js">
+</script>
+
+Include in between <head> </head> tags.
